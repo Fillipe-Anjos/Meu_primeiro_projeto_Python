@@ -1,7 +1,5 @@
 # Meu_primeiro_projeto_Python
 
-# Meu_primeiro_projeto_Python
-
 
 #Projeto de calculo para bonificação de funcionários a partir de mates alcançadas.
 
